@@ -1,0 +1,29 @@
+.square{
+    height: 600px;
+    width: 600px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+}
+
+.square1{
+    height: 400px;
+    width: 400px;
+    background-color: green;
+    border-radius: 50%;
+    position: absolute;
+    top: 17%;
+    left: 17%;
+
+}
+
+.square2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+

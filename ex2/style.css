@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+.highlight{
+    background-color: yellow;
+    font-style: italic;
+
+}
+
+#main-menu{
+    border: 3px solid black;
+    border-radius: 30px;
+}
+
+.highlight .highlight{
+    color: blue;
+}
+
+
+article p{
+border: 5px dotted green;
+}
+
+article h2{
+    font-size: 0.5em;
+    text-transform: uppercase;
+}
